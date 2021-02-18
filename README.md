@@ -12,8 +12,13 @@ Feel free to contribute or send suggestions.
 
 -   pancake layout
 -   input fields and forms
+-   responsive images
 
-### 0.2.0:
+### 0.2.3:
+
+-   update some urls and links
+
+### 0.2.2:
 
 -   table section complete
 -   debug section complete
