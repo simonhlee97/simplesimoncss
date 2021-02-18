@@ -4,7 +4,7 @@ This is just some css that I use in most of my front-end projects.
 
 Feel free to contribute or send suggestions.
 
-[Demo](https://simonhlee97.github.io/simonhlee97/simplesimoncss)
+[Demo](https://simonhlee97.github.io/simplesimoncss)
 
 ## Changelog for SimpleSimonCSS
 
