@@ -4,16 +4,16 @@ This is just some css that I use in most of my front-end projects.
 
 Feel free to contribute or send suggestions.
 
-(https://github.com/simonhlee97)[GitHub link]
+[Demo](https://simonhlee97.github.io/simonhlee97/simplesimoncss)
 
-# Changelog for SimpleSimonCSS
+## Changelog for SimpleSimonCSS
 
 ### Unreleased (coming soon):
 
 -   pancake layout
 -   input fields and forms
 
-### 0.1.2:
+### 0.2.0:
 
 -   table section complete
 -   debug section complete
