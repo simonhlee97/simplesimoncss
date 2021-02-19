@@ -1,6 +1,6 @@
 {
   "name": "simplesimoncss",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "some layouts and some css to get you started, for those who don't want thousands of lines of css code",
   "main": "index.css",
   "scripts": {
