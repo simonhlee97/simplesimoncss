@@ -14,6 +14,10 @@ Feel free to contribute or send suggestions.
 -   input fields and forms
 -   responsive images
 
+### 0.2.5
+
+-   added import example for React and Vue
+
 ### 0.2.4
 
 -   button font size to 15
