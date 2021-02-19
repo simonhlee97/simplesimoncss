@@ -14,6 +14,12 @@ Feel free to contribute or send suggestions.
 -   input fields and forms
 -   responsive images
 
+### 0.2.4
+
+-   button font size to 15
+-   fix gradient direction (to left)
+-   added CONTRIBUTING.md
+
 ### 0.2.3:
 
 -   update some urls and links

@@ -42,8 +42,8 @@ body {
 hr {
     border: 0;
     height: 1px;
-    background: -webkit-linear-gradient(left, transparent, rgba(0, 0, 0, 0.3), transparent);
-    background: linear-gradient(left, transparent, rgba(0, 0, 0, 0.3), transparent);
+    background: -webkit-linear-gradient(to left, transparent, rgba(0, 0, 0, 0.3), transparent);
+    background: linear-gradient(to left, transparent, rgba(0, 0, 0, 0.3), transparent);
     margin: 28px 0 28px 0;
 }
 
@@ -126,7 +126,7 @@ code {
 
 /* buttons */
 button {
-    font-size: 16pt;
+    font-size: 15pt;
     padding: 9px 16px;
     box-shadow: 2px 6px 11px #888888;
 }
